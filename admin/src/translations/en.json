@@ -1,0 +1,12 @@
+{
+    "kvcr-property":{
+        "plugin":{
+            "title":"Property Manager",
+            "description":"Manage your property"
+        },
+        "guest":{
+            "label":"Guest",
+            "description":"Test guest"
+        }
+    }
+}
